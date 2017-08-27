@@ -1,0 +1,26 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "week 11 homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanDay1/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "boot",
+    "camp"
+  ],
+  "author": "Daniel Day",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanDay1/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/DanDay1/Flashcard-Generator#readme",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
