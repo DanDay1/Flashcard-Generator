@@ -1,1 +1,4 @@
-{"front":"What day did Mercury-Redstone 3 launch","back":"May 5, 1961"};{"text":"Alan Shepard was the first American in space","cloze":"Alan Shepard"};{"front":"What day did Mercury-Redstone 3 launch","back":"May 5, 1961"};{"text":"Alan Shepard was the first American in space","cloze":"Alan Shepard","partial":"... was the first American in space"};
+{"front":"What day did Mercury-Redstone 3 launch","back":"May 5, 1961"}
+{"text":"Alan Shepard was the first American in space","cloze":"Alan Shepard","partial":"... was the first American in space"}
+{"front":"What day did Mercury-Redstone 3 launch","back":"May 5, 1961"}
+{"text":"Alan Shepard was the first American in space","cloze":"Alan Shepard","partial":"... was the first American in space"}
